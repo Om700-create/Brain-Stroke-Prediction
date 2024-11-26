@@ -3,7 +3,7 @@
 This project leverages machine learning techniques to predict the likelihood of a person having a stroke based on health-related attributes. Using data such as age, gender, BMI, glucose level, and more, the model is trained to provide predictions on stroke risk. This repository contains the full pipeline from data preprocessing and feature engineering to model training and deployment using Flask.
 
 ---
-![image alt] (https://github.com/Om700-create/Brain-Stroke-Prediction/blob/a151235d56848f43cf5b9f6f6af9114d21bfa51c/Screenshot%202024-11-26%20185143.png)
+![Untitled design] (https://github.com/Om700-create/Brain-Stroke-Prediction/blob/a151235d56848f43cf5b9f6f6af9114d21bfa51c/Screenshot%202024-11-26%20185143.png)
 
 ## Table of Contents
 
